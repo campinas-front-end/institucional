@@ -2,31 +2,15 @@
 
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
-import EventListItem from '../../components/event-list-item'
-// import Pagination from '../../components/pagination/index'
+import Manifest from '../../components/manifest'
 
 const Page = ({ events }) => {
   return (
-    <section className='page'>
+    <section className='page' id='manifest'>
       <header className='page-header'>
-        <h3 className='title'>Próximos Eventos</h3>
+        <h3 className='title'>Manifesto</h3>
       </header>
-
-      {!events.length &&
-        <div className='page-wrap'>
-          Nenhum evento encontrado
-        </div>
-      }
-
-      {!!events.length &&
-        <div className='page-wrap'>
-          {events.map((props, index) => (
-            <EventListItem key={index} {...props} />
-          ))}
-          {/* <Pagination /> */}
-        </div>
-      }
-
+      <Manifest />
     </section>
   )
 }
