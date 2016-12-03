@@ -3,7 +3,6 @@
 import React, { PropTypes, Component } from 'react'
 import { connect } from 'react-redux'
 import HeaderBanner from './header-banner'
-import HeaderFilter from './header-filter'
 import {
   fetchEvents,
   chooseFilterSelect,
@@ -25,7 +24,7 @@ class Header extends Component {
   }
 
   render () {
-    const { events, monthFilter, stateFilter, searchField } = this.props
+    const { events } = this.props
     return (
       <header className='wellness'>
         <h1 className='title'>
@@ -33,14 +32,6 @@ class Header extends Component {
         </h1>
 
         <HeaderBanner events={events} />
-        <HeaderFilter
-          monthFilter={monthFilter}
-          stateFilter={stateFilter}
-          searchField={searchField}
-          handleChangeMonth={(e) => this.handleChange('months', e)}
-          handleChangeState={(e) => this.handleChange('state', e)}
-          handleChangeText={(e) => this.handleChangeText(e)}
-        />
       </header>
     )
   }

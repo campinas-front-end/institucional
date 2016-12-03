@@ -38,6 +38,12 @@ const MainHeader = () => (
     </a>
     <a
       className='btn-link'
+      href='#manifest'
+      title='Manifesto Campinas front-end'>
+        Manifesto
+    </a>
+    <a
+      className='btn-link'
       target='_blank'
       href='http://frontendcampinas.herokuapp.com/'
       title='Slack'>
