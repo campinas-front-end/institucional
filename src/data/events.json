@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Dojo #4 Vue.js",
+    "date": {
+      "day": "12",
+      "month": "Novembro",
+      "year": 2016
+    },
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234831495/",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Av. Nestor Castanheira, nº 80, Vila Industrial",
+      "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
+    },
+    "shortDescription": "O objetivo deste Dojo é aprendermos os conceitos básicos do framework Vue.js. Teremos uma breve apresentação introdutória, dirigida pelo Luis Felipe, e em seguida vamos por a mão no code para aprendermos este framework que está dando o que falar!"
+  },
+  {
+    "title": "Front-End Meetup #8",
+    "date": {
+      "day": "13",
+      "month": "Outubro",
+      "year": 2016
+    },
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234831495/",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Av. José Rocha Bonfim, 214 - Jardim Santa Genebra, Campinas",
+      "locationUrl": "https://www.google.com/maps/place/Av.+José+Rocha+Bomfim,+214+-+Lot.+Center+Santa+Genebra,+Campinas+-+SP,+Brazil/@-22.8473492,-47.0867824,17z"
+    },
+    "shortDescription": ""
+  },
+  {
+    "title": "Dojo #3 - ReactJS",
+    "date": {
+      "day": "13",
+      "month": "Outubro",
+      "year": 2016
+    },
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234831495/",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Av. José Rocha Bonfim, 214 - Jardim Santa Genebra, Campinas",
+      "locationUrl": "https://www.google.com/maps/place/Av.+José+Rocha+Bomfim,+214+-+Lot.+Center+Santa+Genebra,+Campinas+-+SP,+Brazil/@-22.8473492,-47.0867824,17z"
+    },
+    "shortDescription": ""
+  },
+  {
+    "title": "Hackday Minha Campinas - Parte 2",
+    "date": {
+      "day": "30",
+      "month": "Julho",
+      "year": 2016
+    },
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/232866551/",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Av. Nestor Castanheira, nº 80, Vila Industrial",
+      "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
+    },
+    "shortDescription": ""
+  },
+  {
+    "title": "Hackday Minha Campinas",
+    "date": {
+      "day": "9",
+      "month": "Julho",
+      "year": 2016
+    },
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/232378643/",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Av. Nestor Castanheira, nº 80, Vila Industrial",
+      "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
+    },
+    "shortDescription": ""
+  }
+
+]
