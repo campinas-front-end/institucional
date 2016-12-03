@@ -3,14 +3,13 @@
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
 import Manifest from '../../components/manifest'
+import Conduct from '../../components/conduct'
 
 const Page = ({ events }) => {
   return (
-    <section className='page' id='manifest'>
-      <header className='page-header'>
-        <h3 className='title'>Manifesto</h3>
-      </header>
+    <section className='page'>
       <Manifest />
+      <Conduct />
     </section>
   )
 }
