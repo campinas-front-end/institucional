@@ -1,61 +1,66 @@
 //
-// Buttons  
+// Buttons
 //
 // 1. Button
-// 2. Link 
+// 2. Link
 //
 // --------------------------------------------------
- 
+
 //
 // 1. Button
 // --------------------------------------------------
 
-.btn 
+.btn
     reset(form)
     background $brand-alternate
     cursor pointer
     color #fff
-    display inline-block 
-    padding $space $space-lg  
+    display inline-block
+    padding $space $space-lg
     position relative
     overflow hidden
-    
+
     &:before
         background-color $brand-primary
-        content '' 
+        content ''
         position absolute 0
         transform translateY(100%)
-        transition transform .2s ease-in-quad 
-    
+        transition transform .2s ease-in-quad
+
     &:after
         content attr(aria-label)
         opacity 0
-        padding $space $space-lg 
-        transition opacity 0s .1s 
+        padding $space $space-lg
+        transition opacity 0s .1s
         position absolute 0
-       
+
     &:hover
-    &:focus 
+    &:focus
         &:before
             transform translateY(0)
-            
+
         &:after
             opacity 100
             transition-delay 0
-        
-    
+
+
 
 
 //
 // 2. Link
 // --------------------------------------------------
 
-.btn-link 
+.btn-link
     font(p3, bold, secondary, uppercase)
     color $text-color
     display inline-block
-    
+
     &:hover
-    &:focus 
+    &:focus
         text-decoration underline
-    
+
+.github-ribbon
+  position absolute
+  top 0
+  right 0
+  border 0
