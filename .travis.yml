@@ -16,6 +16,7 @@ script:
 - npm run build
 
 after_success:
+- cp CNAME build
 - cd build
 - git init
 - git remote add origin $DEPLOY_REPO
