@@ -1,3 +1,23 @@
 language: node_js
-node_js:
-  - "5"
+
+branches:
+  only:
+  - master
+
+install:
+- npm install
+
+before_script:
+- git config --global user.name 'Campinas Front-end'
+- git config --global user.email 'campinasfrontend@gmail.com'
+
+script:
+- npm run build
+
+after_success:
+- cd build
+- git init
+- git remote add origin $DEPLOY_REPO
+- git add -A .
+- git commit -m $TRAVIS_BUILD_NUMBER
+- git push -f -u -q origin master:gh-pages
