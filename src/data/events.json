@@ -1,5 +1,21 @@
 [
   {
+    "title": "Front-End Meetup #9",
+    "date": {
+      "day": "11",
+      "month": "Janeiro",
+      "year": 2017
+    },
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/236684099/",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "CI&T Campinas - R. Dr. Ricardo Benetton Martins, Pólis de Tecnologia",
+      "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
+    },
+    "shortDescription": ""
+  },
+  {
     "title": "Dojo #4 Vue.js",
     "date": {
       "day": "12",
@@ -13,7 +29,7 @@
       "address": "Av. Nestor Castanheira, nº 80, Vila Industrial",
       "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
     },
-    "shortDescription": "O objetivo deste Dojo é aprendermos os conceitos básicos do framework Vue.js. Teremos uma breve apresentação introdutória, dirigida pelo Luis Felipe, e em seguida vamos por a mão no code para aprendermos este framework que está dando o que falar!"
+    "shortDescription": ""
   },
   {
     "title": "Front-End Meetup #8",
@@ -62,22 +78,5 @@
       "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
     },
     "shortDescription": ""
-  },
-  {
-    "title": "Hackday Minha Campinas",
-    "date": {
-      "day": "9",
-      "month": "Julho",
-      "year": 2016
-    },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/232378643/",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Av. Nestor Castanheira, nº 80, Vila Industrial",
-      "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
-    },
-    "shortDescription": ""
   }
-
 ]
