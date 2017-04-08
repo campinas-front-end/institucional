@@ -1,5 +1,37 @@
 [
   {
+    "title": "Front-End Meetup #12",
+    "date": {
+      "day": "08",
+      "month": "Abril",
+      "year": 2017
+    },
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/238971470/",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Minha Campinas",
+      "locationUrl": "https://maps.google.com/maps?f=q&hl=en&q=Rua+Luzitana%2C+1779+-+Bosque%2C+13026-065%2C+Campinas%2C+br"
+    },
+    "shortDescription": ""
+  },
+  {
+    "title": "Front-End Meetup #11",
+    "date": {
+      "day": "08",
+      "month": "Março",
+      "year": 2017
+    },
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/237909070/",
+    "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "address": "Superlógica Labs",
+      "locationUrl": "https://www.google.com/maps?f=q&hl=en&q=Rua+Joaquim+Vilac,+501,+Bairro+Vila+Teixeira,+Campinas,+S%C3%A3o+Paulo,+13032-385,+S%C3%A3o+Paulo,+br"
+    },
+    "shortDescription": ""
+  },
+  {
     "title": "Front-End Meetup #10",
     "date": {
       "day": "11",
@@ -44,38 +76,6 @@
       "state": "SP",
       "address": "Av. Nestor Castanheira, nº 80, Vila Industrial",
       "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
-    },
-    "shortDescription": ""
-  },
-  {
-    "title": "Front-End Meetup #8",
-    "date": {
-      "day": "13",
-      "month": "Outubro",
-      "year": 2016
-    },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234451102/",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Av. José Rocha Bonfim, 214 - Jardim Santa Genebra, Campinas",
-      "locationUrl": "https://www.google.com/maps/place/Av.+José+Rocha+Bomfim,+214+-+Lot.+Center+Santa+Genebra,+Campinas+-+SP,+Brazil/@-22.8473492,-47.0867824,17z"
-    },
-    "shortDescription": ""
-  },
-  {
-    "title": "Dojo #3 - ReactJS",
-    "date": {
-      "day": "13",
-      "month": "Outubro",
-      "year": 2016
-    },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234091352/",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Av. José Rocha Bonfim, 214 - Jardim Santa Genebra, Campinas",
-      "locationUrl": "https://www.google.com/maps/place/Av.+José+Rocha+Bomfim,+214+-+Lot.+Center+Santa+Genebra,+Campinas+-+SP,+Brazil/@-22.8473492,-47.0867824,17z"
     },
     "shortDescription": ""
   }
