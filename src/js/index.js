@@ -29,7 +29,3 @@ if (module.hot) {
     renderApp(NextApp)
   })
 }
-
-store.subscribe(() => {
-  console.log(store.getState())
-})
