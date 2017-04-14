@@ -14,7 +14,7 @@ const MainHeader = () => (
     </a>
 
     <a className='logo' href='./' role='logo'>
-      <img src='img/logo.png' />
+      <img src='img/logotipo-horizontal.svg' />
     </a>
     <nav className='menu' role='navigation'>
       <ul>
