@@ -38,7 +38,7 @@ const MainHeader = () => (
     <a
       className='btn-link'
       target='_blank'
-      href='http://frontendcampinas.herokuapp.com/'
+      href='http://slack.campinasfrontend.com.br'
       title='Slack'>
         Slack
     </a>
