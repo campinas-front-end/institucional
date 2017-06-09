@@ -1,19 +1,39 @@
 [
   {
+    "title": "Front-End Meetup #14",
+    "date": {
+      "day": "14",
+      "month": "Junho",
+      "year": 2017
+    },
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/240486790/"
+  },
+  {
+    "title": "React Campinas #4",
+    "date": {
+      "day": "10",
+      "month": "Junho",
+      "year": 2017
+    },
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/240449219/"
+  },
+  {
+    "title": "Front-End Meetup #13",
+    "date": {
+      "day": "10",
+      "month": "Maio",
+      "year": 2017
+    },
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/239691948/"
+  },
+  {
     "title": "Front-End Meetup #12",
     "date": {
       "day": "08",
       "month": "Abril",
       "year": 2017
     },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/238971470/",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Minha Campinas",
-      "locationUrl": "https://maps.google.com/maps?f=q&hl=en&q=Rua+Luzitana%2C+1779+-+Bosque%2C+13026-065%2C+Campinas%2C+br"
-    },
-    "shortDescription": ""
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/238971470/"
   },
   {
     "title": "Front-End Meetup #11",
@@ -22,61 +42,6 @@
       "month": "Março",
       "year": 2017
     },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/237909070/",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Superlógica Labs",
-      "locationUrl": "https://www.google.com/maps?f=q&hl=en&q=Rua+Joaquim+Vilac,+501,+Bairro+Vila+Teixeira,+Campinas,+S%C3%A3o+Paulo,+13032-385,+S%C3%A3o+Paulo,+br"
-    },
-    "shortDescription": ""
-  },
-  {
-    "title": "Front-End Meetup #10",
-    "date": {
-      "day": "11",
-      "month": "Fevereiro",
-      "year": 2017
-    },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/237314787/",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Superlógica Labs",
-      "locationUrl": "https://www.google.com/maps?f=q&hl=en&q=Rua+Joaquim+Vilac,+501,+Bairro+Vila+Teixeira,+Campinas,+S%C3%A3o+Paulo,+13032-385,+S%C3%A3o+Paulo,+br"
-    },
-    "shortDescription": ""
-  },
-  {
-    "title": "Front-End Meetup #9",
-    "date": {
-      "day": "11",
-      "month": "Janeiro",
-      "year": 2017
-    },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/236684099/",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "CI&T Campinas - R. Dr. Ricardo Benetton Martins, Pólis de Tecnologia",
-      "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
-    },
-    "shortDescription": ""
-  },
-  {
-    "title": "Dojo #4 Vue.js",
-    "date": {
-      "day": "12",
-      "month": "Novembro",
-      "year": 2016
-    },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/234831495/",
-    "location": {
-      "city": "Campinas",
-      "state": "SP",
-      "address": "Av. Nestor Castanheira, nº 80, Vila Industrial",
-      "locationUrl": "https://www.google.com/maps/place/Minha+Campinas/@-22.9144043,-47.0694272,17z"
-    },
-    "shortDescription": ""
+    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/237909070/"
   }
 ]
