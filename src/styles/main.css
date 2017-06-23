@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'oxygen-regular';
+  src: url('../fonts/oxygen-regular-webfont.woff2') format('woff2'),
+       url('../fonts/oxygen-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'oxygen-regular', sans-serif;
+  font-size: 16px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+}
+
+.logo {
+  height: 100%;
+  width: 300px;
+}
+
+nav {
+  align-self: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.menu-link {
+  text-decoration: none;
+}
+
+.events-wrapper {
+  padding: 1em;
+}
+
+.next-event {
+  background: #243e96;
+  margin: 0 auto;
+}
+
+.event-card {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 400px;
+  padding: 0 1rem;
+  text-decoration: none;
+  width: 100%;
+}
+
+.next-event-link {
+  height: 270px;
+}
+
+.event-list {
+  list-style: none;
+  padding: 0;
+}
+
+.event-list li {
+  margin-bottom: .8em;
+}
+
+.event-item {
+  height: 160px;
+  background: #c61b75;
+}
+
+.event-name {
+  display: block;
+  font-size: 1.7rem;
+}
+
+.event-date {
+  display: block;
+  font-size: 1.3rem;
+  opacity: 0.7;
+}
+
+.page {
+  background: #f0f0f2;
+  padding-bottom: 1em;
+}
+
+.section {
+  padding: 1em 1em 0 1em;
+}
