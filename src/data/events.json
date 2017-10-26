@@ -1,47 +1,47 @@
 [
   {
-    "title": "Front-End Meetup #14",
+    "title": "Dojo #7 - React Native",
     "date": {
-      "day": "10",
-      "month": "Junho",
+      "day": "27",
+      "month": "Setembro",
       "year": 2017
     },
-    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/240486790/"
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/243328820/"
   },
   {
-    "title": "React Campinas #4",
+    "title": "Front-end Meetup #17",
     "date": {
-      "day": "14",
-      "month": "Junho",
+      "day": "12",
+      "month": "Setembro",
       "year": 2017
     },
-    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/240449219/"
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/242832222/"
   },
   {
-    "title": "Front-End Meetup #13",
+    "title": "React Campinas #6",
     "date": {
-      "day": "10",
-      "month": "Maio",
+      "day": "22",
+      "month": "Agosto",
       "year": 2017
     },
-    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/239691948/"
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/242587495/"
   },
   {
-    "title": "Front-End Meetup #12",
+    "title": "Dojo #5 - Desafio PWA",
     "date": {
-      "day": "08",
-      "month": "Abril",
+      "day": "12",
+      "month": "Agosto",
       "year": 2017
     },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/238971470/"
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/242388974/"
   },
   {
-    "title": "Front-End Meetup #11",
+    "title": "Front-end Meetup #16",
     "date": {
-      "day": "08",
-      "month": "Março",
+      "day": "27",
+      "month": "Julho",
       "year": 2017
     },
-    "link": "https://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/237909070/"
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/241723757/"
   }
 ]
