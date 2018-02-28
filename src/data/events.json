@@ -1,47 +1,47 @@
 [
   {
-    "title": "Dojo #7 - React Native",
-    "date": {
-      "day": "27",
-      "month": "Setembro",
-      "year": 2017
-    },
-    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/243328820/"
-  },
-  {
-    "title": "Front-end Meetup #17",
+    "title": "Front In Campinas",
     "date": {
       "day": "12",
-      "month": "Setembro",
-      "year": 2017
+      "month": "Maio",
+      "year": 2018
     },
-    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/242832222/"
+    "link": "http://frontincampinas.com.br"
   },
   {
-    "title": "React Campinas #6",
-    "date": {
-      "day": "22",
-      "month": "Agosto",
-      "year": 2017
-    },
-    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/242587495/"
-  },
-  {
-    "title": "Dojo #5 - Desafio PWA",
-    "date": {
-      "day": "12",
-      "month": "Agosto",
-      "year": 2017
-    },
-    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/242388974/"
-  },
-  {
-    "title": "Front-end Meetup #16",
+    "title": "Front School #1 - Começando com HTML5 e CSS3",
     "date": {
       "day": "27",
-      "month": "Julho",
+      "month": "Fevereiro",
+      "year": 2018
+    },
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/247116564/"
+  },
+  {
+    "title": "Dev Women #1",
+    "date": {
+      "day": "16",
+      "month": "Dezembro",
       "year": 2017
     },
-    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/241723757/"
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/245494442/"
+  },
+  {
+    "title": "React Campinas #7 - React Native e Firebase na prática",
+    "date": {
+      "day": "21",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/245139228/"
+  },
+  {
+    "title": "Dojo #8 - React Native (replay)",
+    "date": {
+      "day": "14",
+      "month": "Novembro",
+      "year": 2017
+    },
+    "link": "https://www.meetup.com/pt-BR/campinas-frontend/events/244927734/"
   }
 ]
